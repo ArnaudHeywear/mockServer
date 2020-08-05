@@ -1,0 +1,55 @@
+{
+  "patient/exam_pi_completed" : [
+        {
+          "address": "New York",
+          "arrived_time": "2020-05-29 15:30:00.000",
+          "birthday": "1990-03-20 00:00:00.000",
+          "email": "mike@brown.com",
+          "firstname": "Mike",
+          "gender": "male",
+          "ipd": 64.0,
+          "lastname": "Brown",
+          "phone": "+1234567",
+          "status": "EXAM_PI_COMPLETED",
+          "uid": "2bc719"
+        },
+        {
+          "address": "New York",
+          "arrived_time": "2020-06-21 15:30:00.000",
+          "birthday": "1990-03-20 00:00:00.000",
+          "email": "Brad@heywear.com",
+          "firstname": "Brad",
+          "gender": "male",
+          "ipd": 64.0,
+          "lastname": "Pitt",
+          "phone": "+1234567",
+          "status": "EXAM_PI_COMPLETED",
+          "uid": "465854"
+        },
+        {
+          "address": "Chicago",
+          "arrived_time": "2020-06-22 15:30:00.000",
+          "birthday": "1984-03-20 00:00:00.000",
+          "email": "Tom@heywear.com",
+          "firstname": "Tom",
+          "gender": "male",
+          "ipd": 64.0,
+          "lastname": "Cruise",
+          "phone": "+1234567",
+          "status": "EXAM_PI_COMPLETED",
+          "uid": "484868"
+        }
+      ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
